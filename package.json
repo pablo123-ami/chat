@@ -1,0 +1,17 @@
+{
+  "name": "primer-programa-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1",
+    "primer-programa-node": "file:",
+    "socket.io": "^4.8.0"
+  }
+}
